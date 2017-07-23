@@ -1,0 +1,8 @@
+#files
+**/*.pyc
+News_OverHEAR/News_OverHEAR/settings.py
+News_OverHEAR/manage.py
+
+#folders
+#News_OverHEAR/News_OverHEAR
+
